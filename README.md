@@ -26,10 +26,10 @@
 
 
 <a href="https://github.com/swara12262">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swara12262&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swara12262&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/swara12262">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=swara12262&show_icons=true&theme=light&line_height=27" alt="Swaranjali's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=swara12262&show_icons=true&theme=dark&line_height=27" alt="Swaranjali's github stats"/>
 </a>
 
 
