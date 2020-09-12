@@ -1,5 +1,6 @@
-### Hi I am a passionate Software Developer 👋
-
+### 
+Hi I am Swaranjali 👋
+- Here is what I am working on...
 
 - 🔭 I’m currently working on RESTful Web Service application with Java, Spring MVC, Spring Boot and Spring Data JPA
 - 🌱 I’m currently learning Spring boot, Angular
