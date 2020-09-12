@@ -1,14 +1,14 @@
 <h1 align="center"> Hi, I am Swaranjali 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swara12262&label=Views&color=blue&style=plastic" alt="swara12262" /> </p>
 
-- 🔭 I’m currently working on <b> RESTful Web Service application with Java, Spring MVC, Spring Boot and Spring Data JPA </b>
-- 🌱 I’m currently learning Spring boot, Angular
+- 🔭 I’m currently working on <b> RESTful Web Service application with Java, Spring MVC, Spring Boot and Spring Data JPA. </b>
+- 🌱 I’m currently learning Spring boot and Angular.
 - 👯 I’m looking to collaborate on Full stack application using Angular, java and AWS.
-- 🤔 I’m looking for help with AWS
-- 💬 Ask me about <b> Data structures and Algorithms </b>
+- 🤔 I’m looking for help with AWS.
+- 💬 Ask me about <b> Data structures and Algorithms. </b>
 - 📫 How to reach me: https://www.linkedin.com/in/swaranjali-sawant/
-- 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... Need to think .
+- 😄 Pronouns: ... She/Her.
+- ⚡ Fun fact: ... Need to think...
 
 **Languages and Tools:**  
 
