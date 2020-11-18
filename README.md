@@ -8,7 +8,6 @@
 - 💬 Ask me about <b> Data structures and Algorithms. </b>
 - 📫 How to reach me: https://www.linkedin.com/in/swaranjali-sawant/
 - 😄 Pronouns: ... She/Her.
-- ⚡ Fun fact: ... If I had to eat one type of food for the rest of my life it would be just Vegetables... 
 
 **Languages and Tools:**  
 
