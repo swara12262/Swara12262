@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on <a href="https://www.udemy.com/course/restful-web-service-with-spring-boot-jpa-and-mysql/"><b> RESTful Web Service application with Java, Spring MVC, Spring Boot and Spring Data JPA. </b></a>
 - 🌱 I’m currently learning everyday.
-- 👯 I’m looking to collaborate on Full stack application using Angular, java and AWS.
-- 🤔 I’m looking for help with AWS.
 - 💬 Ask me about <b> Data structures and Algorithms. </b>
 - 📫 How to reach me: https://www.linkedin.com/in/swaranjali-sawant/
 - 😄 Pronouns: ... She/Her.
