@@ -1,5 +1,6 @@
 <h1 align="center"> Hi, I am Swaranjali 👋</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swara12262" alt="swara12262" /> </p>
 
 - 🔭 I’m currently working on <a href="https://www.udemy.com/course/restful-web-service-with-spring-boot-jpa-and-mysql/"><b> RESTful Web Service application with Java, Spring MVC, Spring Boot and Spring Data JPA. </b></a>
 - 🌱 I’m currently learning everyday.
