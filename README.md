@@ -30,7 +30,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swara12262&show_icons=true&theme=dark&line_height=27" alt="Swaranjali's github stats"/>
 </a>
 
-
 <div align="center">
 
 </div>
